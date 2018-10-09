@@ -1,5 +1,6 @@
 
 def brain_luck(code, input):
+    # here is a wrong understanding of function
     inputlist = list(e for e in input)
     idx_code = 0
     idx_input = 0
